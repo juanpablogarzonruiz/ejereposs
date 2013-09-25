@@ -1,4 +1,3 @@
-
 public class principalmain {
 
 	/**
@@ -12,6 +11,7 @@ public class principalmain {
 		System.out.println("el tercer mensaje a subir al repo");
 		//otro comentario
 		System.out.println("este es el primer cambio desde el repo");
+		//cambio desde la consola
 	}
 
 }
