@@ -18,6 +18,7 @@ public class principalmain {
 		//este comentario en master
 		//otro coemntanrii
 		//si esto funciona listo a
+		//desde el clo
 	}
 
 }
