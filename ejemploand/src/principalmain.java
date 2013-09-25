@@ -1,4 +1,3 @@
-
 public class principalmain {
 
 	/**
@@ -19,6 +18,8 @@ public class principalmain {
 		//otro coemntanrii
 		//si esto funciona listo a
 		//desde el clo
+		
+		//dnkendkendjke
 	}
 
 }
