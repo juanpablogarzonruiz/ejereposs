@@ -12,7 +12,7 @@ public class principalmain {
 		System.out.println("el tercer mensaje a subir al repo");
 		//otro comentario
 		
-		//esto es cambio de comenarios bajar
+		//esto es cambio de comenarios bajardd
 	}
 
 }
